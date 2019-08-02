@@ -3,6 +3,7 @@
 ## Todo
 
 * App icons
+* New E. version doesn't darken menu bar
 
 ## Install
 
